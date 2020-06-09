@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.alan.developer</groupId>
     <artifactId>activemq-client-ms</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>activemq-client-ms</name>
     <description>Demo project for Spring Boot</description>
     <scm>
