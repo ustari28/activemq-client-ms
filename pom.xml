@@ -30,8 +30,6 @@
     </distributionManagement>
     <properties>
         <java.version>1.8</java.version>
-        <repo.releases>releases</repo.releases>
-        <repo.snapshots>snapshots</repo.snapshots>
     </properties>
 
     <dependencies>
