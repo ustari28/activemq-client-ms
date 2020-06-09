@@ -13,7 +13,9 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>activemq-client-ms</name>
     <description>Demo project for Spring Boot</description>
-
+    <scm>
+        <developerConnection>scm:git:https://github.com/ustari28/activemq-client-ms.git</developerConnection>
+    </scm>
     <properties>
         <java.version>1.8</java.version>
     </properties>
