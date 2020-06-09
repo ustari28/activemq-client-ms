@@ -18,14 +18,10 @@
   </scm>
     <distributionManagement>
         <repository>
-            <id>nexus</id>
-            <name>releases</name>
-            <url>http://localhost:8081/repository/maven-releases/</url>
+            <id>nexus-releases</id>
         </repository>
         <snapshotRepository>
-            <id>nexus</id>
-            <name>snapshots</name>
-            <url>http://localhost:8081/repository/maven-snapshots/</url>
+            <id>nexus-snapshots</id>
         </snapshotRepository>
     </distributionManagement>
     <properties>
