@@ -15,7 +15,6 @@
     <description>Demo project for Spring Boot</description>
     <scm>
         <developerConnection>scm:git:https://github.com/ustari28/activemq-client-ms.git</developerConnection>
-        <tag>v1.0.0</tag>
     </scm>
     <distributionManagement>
         <repository>
