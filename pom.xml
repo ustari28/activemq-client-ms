@@ -18,14 +18,20 @@
   </scm>
     <distributionManagement>
         <repository>
-            <id>nexus-releases</id>
+            <id>nexus</id>
+            <name>releases</name>
+            <url>${repo.releases}</url>
         </repository>
         <snapshotRepository>
-            <id>nexus-snapshots</id>
+            <id>nexus</id>
+            <name>snapshots</name>
+            <url>${repo.snapshots}</url>
         </snapshotRepository>
     </distributionManagement>
     <properties>
         <java.version>1.8</java.version>
+        <repo.releases>releases</repo.releases>
+        <repo.snapshots>snapshots</repo.snapshots>
     </properties>
 
     <dependencies>
